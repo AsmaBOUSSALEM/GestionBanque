@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/file of asma/my softwares/apache-tomcat-6.0.36/lib/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="D:/file of asma/smi6/java/Projet_HIND_AKROUT/HIND-AKROUT_ApplicationDe-Gestion-Des-Clients&amp;Compte-Bancaire/lib/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
